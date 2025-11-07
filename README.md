@@ -18,7 +18,7 @@ My specific responsibilities included:
 
 * Programmed player character controls, including movement and shooting mechanics.
 
-* Designed and implemented 4 distinct boss encounters with unique AI, attack patterns, and phases.
+* Designed and implemented 4 distinct boss encounters with semi-deterministic, pattern-based AI and unique attack patterns.
 
 * Created a dynamic difficulty system that increases challenge over time.
 
