@@ -28,8 +28,8 @@ My specific responsibilities included:
 
 ## Tools Used 
 
-* **Engine:** Unity
-* **Programming:** C#
+* **Engine:** Godot
+* **Programming:** GDScript
   
   ---
 
