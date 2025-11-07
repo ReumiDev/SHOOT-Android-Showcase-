@@ -3,7 +3,7 @@ Portfolio Showcase: 'SHOOT!'
 
 > This is a portfolio showcase for "SHOOT!", a game I helped produce as part of a two-person collaboration, under the name 'Cautious Games'. 
 
-*((In collaboration with [Citurinn](https://github.com/citurinn)))*
+*(In collaboration with [Citurinn](https://github.com/citurinn))*
 
 ## About The Game 
 In a never-ending meteor storm, destroy any obstacles on your way, and fight with 4 different bosses throughout your adventure! Beware, the game gets harder as you progress!
